@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @matthew-botten
+- 👀 I’m interested in artificial intelligence and web design
+- 🌱 I’m currently learning basic machine learning algorithms in python
+- 💞️ I’m looking to collaborate on any project!
+- 📫 How to reach me contact@matthewbotten.com
